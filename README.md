@@ -1,5 +1,6 @@
-# 💫 About Me:
-Hey! I’m Enes. I'm a student-dev who loves turning ideas into real, usable apps.<br>University student by day, software craftsman by night.<br><br>I’m currently building PrismApp, my own chat platform (DM, themes, avatars, live server status… all from scratch).<br>I also work on productivity apps, small games, stock-analysis tools, and anything that pushes me to learn something new.<br><br>Tech stack: JavaScript / TypeScript, React, Node.js, Java, Python.<br>Learning never stops. Building never stops.
+# About Me:
+Hey, I’m Enes.
+I’m a university student building apps and experimenting with different ideas.<br>I’m currently building PrismApp, my own chat platform (DM, themes, avatars, live server status… all from scratch).<br>I also work on productivity apps, small games, stock-analysis tools, and anything that pushes me to learn something new.<br><br>Tech stack: JavaScript / TypeScript, React, Node.js, Java, Python.<br>Learning never stops. Building never stops.
 
 
 ## 🌐 Socials:
