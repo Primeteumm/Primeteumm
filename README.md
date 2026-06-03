@@ -33,7 +33,7 @@
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Primeteumm&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Primeteumm&theme=midnight-purple&hide_border=false)
+![GitHub Streak](https://streak-stats.vercel.app/?user=Primeteumm&theme=midnight-purple&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Primeteumm&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
