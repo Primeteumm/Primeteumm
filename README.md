@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there%20👋,%20I'm%20Enes&fontSize=50&fontAlignY=38&animation=twinkling&desc=University%20Student%20|%20Developer&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there%20,%20I'm%20Enes&fontSize=50&fontAlignY=38&animation=twinkling&desc=University%20Student%20|%20Developer&descAlignY=55&descAlign=50" />
 </div>
 
 <h3 align="center">A passionate university student building apps and experimenting with different ideas.</h3>
