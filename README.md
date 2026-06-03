@@ -31,14 +31,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Primeteumm&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Primeteumm&theme=midnight-purple&hide_border=false" height="150" alt="GitHub Streak" />
-</div>
 
-<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Primeteumm&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Primeteumm&theme=midnight-purple&hide_border=false)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Primeteumm&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="Top Languages" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Primeteumm&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 </div>
 
 <br/>
