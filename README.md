@@ -1,16 +1,46 @@
-# About Me:
-Hey, I’m Enes.
-I’m a university student building apps and experimenting with different ideas.<br>I also work on productivity apps, small games, stock-analysis tools, and anything that pushes me to learn something new.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there%20👋,%20I'm%20Enes&fontSize=50&fontAlignY=38&animation=twinkling&desc=University%20Student%20|%20Developer&descAlignY=55&descAlign=50" />
+</div>
 
+<h3 align="center">A passionate university student building apps and experimenting with different ideas.</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eness_aydiin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enes-ayd%C4%B1n-3594773a0/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aydinenes.dev@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://aydinenesdev.vercel.app/) [![Google Dev](https://img.shields.io/badge/Google%20Dev-%234285F4.svg?logo=google&logoColor=white)](https://g.dev/enesaydin)
+<p align="center">
+  <a href="https://instagram.com/eness_aydiin"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/in/enes-ayd%C4%B1n-3594773a0/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
+  <a href="mailto:aydinenes.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"></a>
+  <a href="https://aydinenesdev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white&style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://g.dev/enesaydin"><img src="https://img.shields.io/badge/Google%20Dev-%234285F4.svg?logo=google&logoColor=white&style=for-the-badge" alt="Google Dev"></a>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Primeteumm&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Primeteumm&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Primeteumm&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 About Me
+- 🚀 I currently work on **productivity apps, small games, stock-analysis tools**, and anything that pushes me to learn something new.
+- 🎓 I’m a university student studying and improving my development skills every day.
+- 💡 Always looking for exciting ideas to build and exploring new technologies.
+
+---
+
+### 💻 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,js,ts,java,dart,python,nodejs,react,postgres&perline=10" alt="Tech Stack Icons" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Primeteumm&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Primeteumm&theme=midnight-purple&hide_border=false" height="150" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Primeteumm&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="Top Languages" />
+</div>
+
+<br/>
+
+<!-- Proudly created with GPRM / updated manually for aesthetics -->
