@@ -1,44 +1,75 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there%20,%20I'm%20Enes&fontSize=50&fontAlignY=38&animation=twinkling&desc=University%20Student%20|%20Developer&descAlignY=55&descAlign=50" />
-</div>
-
-<h3 align="center">A passionate university student building apps and experimenting with different ideas.</h3>
+<img src="./assets/header-dark.svg" width="100%" alt="Enes Aydın — University Student / Developer" />
 
 <p align="center">
-  <a href="https://instagram.com/eness_aydiin"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram"></a>
-  <a href="https://www.linkedin.com/in/enes-ayd%C4%B1n-3594773a0/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
-  <a href="mailto:aydinenes.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"></a>
-  <a href="https://aydinenesdev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white&style=for-the-badge" alt="Portfolio"></a>
-  <a href="https://g.dev/enesaydin"><img src="https://img.shields.io/badge/Google%20Dev-%234285F4.svg?logo=google&logoColor=white&style=for-the-badge" alt="Google Dev"></a>
+  <a href="https://aydinenesdev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0b0d17?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/enes-ayd%C4%B1n-3594773a0/"><img src="https://img.shields.io/badge/in%20LinkedIn-0b0d17?style=flat-square&logoColor=67e8f9" alt="LinkedIn"></a>
+  <a href="https://instagram.com/eness_aydiin"><img src="https://img.shields.io/badge/Instagram-0b0d17?style=flat-square&logo=instagram&logoColor=f472b6" alt="Instagram"></a>
+  <a href="https://g.dev/enesaydin"><img src="https://img.shields.io/badge/Google%20Dev-0b0d17?style=flat-square&logo=google&logoColor=a5b4fc" alt="Google Dev"></a>
+  <a href="mailto:aydinenes.dev@gmail.com"><img src="https://img.shields.io/badge/Email-0b0d17?style=flat-square&logo=gmail&logoColor=fca5a5" alt="Email"></a>
+  <img src="https://komarev.com/ghpvc/?username=Primeteumm&style=flat-square&color=0b0d17&label=profile+views" alt="Profile views" />
 </p>
-
----
-
-### 👨‍💻 About Me
-- 🚀 I currently work on **productivity apps, small games, stock-analysis tools**, and anything that pushes me to learn something new.
-- 🎓 I’m a university student studying and improving my development skills every day.
-- 💡 Always looking for exciting ideas to build and exploring new technologies.
-
----
-
-### 💻 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,js,ts,java,dart,python,nodejs,react,postgres&perline=10" alt="Tech Stack Icons" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Primeteumm&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)
-![GitHub Streak](https://streak-stats.vercel.app/?user=Primeteumm&theme=midnight-purple&hide_border=false)
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Primeteumm&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
 
 <br/>
 
-<!-- Proudly created with GPRM / updated manually for aesthetics -->
+### 01 &nbsp;/&nbsp; About
+
+I'm a university student who likes turning ideas into things people can actually use: mobile apps, games, stock-analysis tools and developer utilities. Most of my projects start as *"wouldn't it be cool if…"* and end up teaching me a new language or framework along the way.
+
+<br/>
+
+### 02 &nbsp;/&nbsp; Now
+
+**Building** &nbsp;—&nbsp; Web apps with TypeScript & React, games in Unity and Godot<br/>
+**Exploring** &nbsp;—&nbsp; AI tooling and MCP servers that plug LLMs into real software<br/>
+**Learning** &nbsp;—&nbsp; Game networking and desktop tooling
+
+<br/>
+
+### 03 &nbsp;/&nbsp; Stack
+
+**Languages** &nbsp;—&nbsp; TypeScript · JavaScript · Dart · C# · Python · Java · C<br/>
+**Frameworks** &nbsp;—&nbsp; React · Next.js · Flutter · Node.js · Tailwind CSS<br/>
+**Game engines** &nbsp;—&nbsp; Unity · Godot<br/>
+**Data & infra** &nbsp;—&nbsp; PostgreSQL · Supabase · Firebase · Vercel<br/>
+**Tools** &nbsp;—&nbsp; Git · VS Code · Figma
+
+<br/>
+
+### 04 &nbsp;/&nbsp; Selected work
+
+<details>
+  <summary><b>Screenshot-Enhancer</b> &nbsp;—&nbsp; macOS-style screenshot preview for Windows</summary>
+  <br/>
+
+  A floating thumbnail you can drag and drop into any app. Comes with OCR, region capture and works fully offline.
+
+  <a href="https://github.com/Primeteumm/Screenshot-Enhancer"><img src="https://img.shields.io/badge/View%20repository-0b0d17?style=flat-square&logo=github&logoColor=white" alt="View repository"></a>
+  <img src="https://img.shields.io/github/stars/Primeteumm/Screenshot-Enhancer?style=flat-square&color=0b0d17&labelColor=0b0d17&label=stars" alt="Stars" />
+  <img src="https://img.shields.io/github/last-commit/Primeteumm/Screenshot-Enhancer?style=flat-square&color=0b0d17&labelColor=0b0d17&label=updated" alt="Last commit" />
+  <br/><br/>
+</details>
+
+<details>
+  <summary><b>More on the way</b> &nbsp;—&nbsp; apps, games and tools currently in private development</summary>
+  <br/>
+
+  Most of what I'm working on is still private while it takes shape. Check the [portfolio](https://aydinenesdev.vercel.app/) for the latest.
+  <br/><br/>
+</details>
+
+<br/>
+
+### 05 &nbsp;/&nbsp; Activity
+
+<div align="center">
+    <img height="165" src="https://github-readme-stats.shion.dev/api?username=Primeteumm&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=30363d&title_color=e6edf3&icon_color=e6edf3&text_color=7d8590&ring_color=e6edf3&border_radius=12" alt="GitHub stats" />
+    <img height="165" src="https://streak-stats.demolab.com/?user=Primeteumm&background=0d1117&border=30363d&ring=e6edf3&fire=e6edf3&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=e6edf3&sideLabels=7d8590&dates=7d8590&stroke=30363d&border_radius=12" alt="GitHub streak" />
+  </div>
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Primeteumm&bg_color=0d1117&color=7d8590&title_color=e6edf3&line=e6edf3&point=e6edf3&area=true&area_color=e6edf3&hide_border=true&radius=12" alt="Contribution graph" />
+
+<br/>
+
+<a href="mailto:aydinenes.dev@gmail.com"><img src="./assets/footer.svg" width="100%" alt="Thanks for stopping by. Let's build something together." /></a>
